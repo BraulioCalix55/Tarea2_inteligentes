@@ -1,0 +1,13 @@
+Tarea 2 de inteligentes
+si se busca minimizar costo, el costo que voy a usar
+va a ser la cantidad de pasos que se dan
+generar una formulacion completa del problema
+estado incial: una posicion (x,y) en el mapa
+el cual tenga al menos una casilla contigua
+para poderr moverse
+acciones: poder moverse en una direccion valida 
+(arriba,abajo,izq,der)
+modelo de transiciones: 
+
+recorrer matriz e ir creando ibjeto 
+casilla (x,y,que hay,visitado)
